@@ -46,7 +46,7 @@
     "bridgeStandardToken": "ts-node scripts/deployStandard.ts"
   },
   "dependencies": {
-    "@ethersproject/address": "^5.0.8",
+    "@ethersproject/address": "^5.7.0",
     "@ethersproject/bignumber": "^5.1.1",
     "@ethersproject/bytes": "^5.0.8",
     "ethers": "^5.1.0"
